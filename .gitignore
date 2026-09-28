@@ -1,0 +1,11 @@
+dataset*/
+runs/
+logs/
+*.pt
+*.pth
+*.csv
+*.png
+*.jpg
+__pycache__/
+*.out
+*.err
